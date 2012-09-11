@@ -19,7 +19,9 @@
    ```$ git checkout master```<br>
    _Switched to branch "master"_<br>
    ```$ git pull origin master```
-  
+
+Attribution to and more info at [Scott Chacon's Git-Flow Writeup](http://scottchacon.com/2011/08/31/github-flow.html)
+
 ## Collaboration with non-members of github/pulibrary
 Please follow the instructions here for forking and merging:
 https://help.github.com/articles/using-pull-requests
