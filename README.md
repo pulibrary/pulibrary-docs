@@ -1,7 +1,7 @@
 pulibrary-docs
 ==============
 
-This is a repository of Documentation (Best Practices, How-to's, etc.) for the [Princeton University Library](http:/github.com/pulibrary) organization.  It is basically a pile of Github Flavored Markdown files that emulate a wiki.  Team members can edit any of the files through the Github interface, but new files need to be created in a cloned repository and pushed (see How to Contribute).  Same goes for the deletion of files.  
+This is a repository of documentation (Conventions, Best Practices, How-to's, etc.) for the [Princeton University Library](http:/github.com/pulibrary) organization.  It is basically a pile of Github Flavored Markdown files that emulate a wiki.  Team members can edit any of the files through the Github interface, but new files need to be created in a cloned repository and pushed (see How to Contribute).  Same goes for the deletion of files.  
 
 Like files can be grouped together in sub-directories.  Subdirectories with multiple files should have a standard index page with links and descriptions.  In addition to the creation and deletion of files, one of the other main differences between this wiki-like approach and traditional  wikis is that links to other .md files within this repository must be hardcoded like so:
 ``` [my link](https://github.com/pulibrary/pulibrary-docs/blob/master/git-help.md) ```
